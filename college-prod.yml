@@ -20,5 +20,5 @@ spring:
 server:
   data:
     path:
-      images: F:\Java Projects\producation\images-data
-      videos: F:\Java Projects\producation\videos-data
+      images: F:\Java Projects\prod\images-data
+      videos: F:\Java Projects\prod\videos-data
